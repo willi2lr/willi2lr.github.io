@@ -1,0 +1,27 @@
+.nav {
+  height: 40px;
+  background:#a7e8ee;
+  margin-top: 20px;
+}
+
+.nav ul{
+  margin:0;
+  padding:0;
+}
+
+.nav ul li{
+  list-style:none;
+}
+
+.nav ul li a {
+  text-decoration: none;
+  float: left;
+  display: block;
+  padding: 10px 20px;
+  color: black;
+}
+
+.nav ul li a:hover{
+  color: white;
+}
+
