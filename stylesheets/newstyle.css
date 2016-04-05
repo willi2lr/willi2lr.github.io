@@ -1,7 +1,7 @@
 .nav {
   height: 40px;
   background:#81F7F3;
-  margin-top: 20px;
+  
 }
 
 .nav ul{
@@ -17,7 +17,7 @@
   text-decoration: none;
   float: left;
   display: block;
- 
+  padding: 10px 20px;
   color: black;
 }
 
