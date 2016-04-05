@@ -1,7 +1,7 @@
 .nav {
   height: 40px;
   background:#81F7F3;
-  
+ 
 }
 
 .nav ul{
@@ -18,7 +18,7 @@
   float: left;
   display: block;
   padding: 10px 20px;
-  color: black;
+  color: black;text-align:center;
 }
 
 .nav ul li a:hover{
