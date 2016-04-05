@@ -2,6 +2,8 @@
   height: 40px;
   background:#81F7F3;
  text-align: center;
+ position: relative;
+   left: 175px;
 }
 
 .nav ul{
