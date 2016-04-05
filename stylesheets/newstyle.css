@@ -31,11 +31,6 @@
 
 
 .images_hz {
-width: 960px;
-height: auto;
-overflow: hidden;
+ float:left;
 
 }
-.images_hz img {
-display: inline;
-margin: 0 10px;}
