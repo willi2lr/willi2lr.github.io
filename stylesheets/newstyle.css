@@ -29,3 +29,13 @@
   color: white;
 }
 
+
+.images_hz {
+width: 960px;
+height: auto;
+overflow: hidden;
+
+}
+.images_hz img {
+display: inline;
+margin: 0 10px;}
