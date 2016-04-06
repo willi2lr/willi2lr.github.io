@@ -52,3 +52,10 @@
   background-color: #efefef;
   text-align: center;
 }
+
+
+.nav2{
+  list-style:none;
+  display: inline-block;
+  
+}
