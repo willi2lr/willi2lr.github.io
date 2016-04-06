@@ -28,6 +28,16 @@
   color: white;
 }
 
+.fun ul{
+margin:0;
+padding:0;
+text-align: center;
+list-style:none; 	
+}
+
+.fun ul li{
+	 padding: 2px 5px;  
+}
 
 .images_hz {
  margin: 0 auto 0 auto;
@@ -56,6 +66,4 @@ margin: 0px 15px 15px 0px;
     text-align: center;
     border-radius: 4px;
     margin-top: 30px;
-    
-
 }
