@@ -83,3 +83,15 @@ border: 2px;
 h3{
 	display:inline-block;
 }
+
+.ha{
+text-align: left;	
+}
+
+.hb{
+	text-align: center;
+}
+
+.hc{
+	text-align: right;
+}
