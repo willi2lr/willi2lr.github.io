@@ -57,5 +57,6 @@
 
 
 .myButton {
-	 display: inline;
+	 
+	 display: inline-block; 
 }
