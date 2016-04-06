@@ -58,7 +58,7 @@
 
 .myButton {
 	 
-display: block;
+ display: inline-block;
     height: 50px;
     color: black;
     font-size: 35px;
