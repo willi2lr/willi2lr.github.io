@@ -124,3 +124,8 @@ padding-top: 0;
 seeMore{
 	display:inline-block;
 }
+
+.screenshots{
+	  float: left;
+margin: 0px 15px 15px 0px;
+}
