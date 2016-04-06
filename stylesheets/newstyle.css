@@ -74,3 +74,12 @@ border: 2px;
     border-color: Black;
     margin: 0px 15px 15px 0px;
 }
+
+
+.preview{
+	display:inline-block;
+}
+
+h3{
+	text-align:center;
+}
