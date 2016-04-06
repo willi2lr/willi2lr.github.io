@@ -32,7 +32,7 @@
 .images_hz {
  margin: 0 auto 0 auto;
     display: inline-block;
-
+  text-align: center;
 }
 
 .aboutpic {
@@ -42,23 +42,10 @@
   
 }
 
-
-.footer {
-  position: absolute;
-  right: 0;
-  bottom: 0;
-  left: 0;
-  padding: 1rem;
-  background-color: #efefef;
-  text-align: center;
-}
-
-
-
-
 .myButton {
 	 
- display: inline-block;
+ margin: 0 auto 0 auto;
+    display: inline-block;
     height: 50px;
     color: black;
     font-size: 35px;
